@@ -34,6 +34,12 @@
 
 - [HTML + CSS 视频课程<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](http://edu.51cto.com/course/course_id-3116.html)
 
+- [Web前端实习生成长计划（VIP）★★★★<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](https://pan.baidu.com/s/1slgwj7Z)
+  本课程介绍了Web前端工程师的职业、行业前景，同时讲解了HTML(HTML5)基本语法、CSS(CSS3）基本语法、JavaScript基础知识、jQuery基础等知识。
+  
+- [Web前端工程师成长计划（VIP）★★★★★<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](https://pan.baidu.com/s/1eSsTQoi)
+  本课程深入讲解HTML、CSS、JavaScript、Node.js、AngularJS、jQuery知识，并结合项目案例，进一步剖析和讲解Web前端应具备的知识体系。
+
 - [HTML + CSS 在线练习](http://www.imooc.com/learn/9)  
   
 - [前端开发者手册](http://wiki.jikexueyuan.com/project/fedHandlebook/)  
